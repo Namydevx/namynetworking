@@ -294,6 +294,23 @@
             "isWeb": true,
             "udpUse": false
         },
+		{
+            "Name": "TELKOMSEL TEST",
+            "Payload": "GET \/cdn-cgi\/trace HTTP\/1.1[crlf]Host: tsel.me[crlf][crlf]GET-RAY \/ HTTP\/1.1[crlf]Host: [host][crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+            "SNI": "",
+            "pInfo": "",
+            "Slowdns": "",
+            "WebProxy": "172.67.175.171",
+            "WebPort": "80",
+            "udpResolver": "",
+            "isSSL": false,
+            "isPayloadSSL": false,
+            "isInject": true,
+            "isDirect": false,
+            "isSlow": false,
+            "isWeb": true,
+            "udpUse": false
+        },
         {
             "Name": "GAME V2",
             "Payload": "PATCH \/ws HTTP\/1.1\nHost: [host]\nHost: line.me\nConnection: Keep-Alive\nConnection: Keep-Alive\nProxy-Connection: Keep-Alive\nUpgrade: websocket\nConnection: Upgrade\nSec-WebSocket-Key: x3JJHMbDL1EzLkh9GBhXDw==\nSec-WebSocket-Version: 13\nUser-Agent: [ua][crlf][crlf]",
