@@ -4,7 +4,7 @@
     "ReleaseNotes1": "",
     "Servers": [
         {
-            "Name": "UDP SERVER",
+            "Name": "UDP SERVER NAMY",
             "FLAG": "wlt",
             "ServerIP": "135.125.237.106",
             "ProxyIP": "",
