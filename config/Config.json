@@ -38,14 +38,14 @@
             "tunnelT": "UDP"
         },
         {
-            "Name": "SINGAPORE",
-            "FLAG": "sg",
-            "ServerIP": "namynet.me",
+            "Name": "Malaysia",
+            "FLAG": "my",
+            "ServerIP": "my4.vpnjantit.com",
             "ProxyIP": "",
             "ServerPort": "80",
             "SSLPort": "443",
             "ProxyPort": "",
-            "ServerUser": "Namydev",
+            "ServerUser": "namynet-vpnjantit.com",
             "ServerPass": "123",
             "sInfo": "",
             "Slowchave": "",
