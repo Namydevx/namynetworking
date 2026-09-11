@@ -38,21 +38,16 @@
             "tunnelT": "UDP"
         },
 		{
-    "Name": "HYSTERIA SERVER",
-    "FLAG": "sg",
-    "ServerIP": "alamat-server-hysteria",
-    "ProxyIP": "",
-    "ServerPort": "443",
-    "SSLPort": "",
-    "ProxyPort": "",
-    "ServerUser": "",
-    "ServerPass": "",
-    "sInfo": "",
-    "Slowchave": "",
-    "Nameserver": "",
-    "servermessage": "",
-    "udpAcc": "",
-    "tunnelT": "HYSTERIA"
+  "Name": "HYSTERIA2 SERVER",
+  "FLAG": "sg",
+  "ServerIP": "alamat-server-hysteria",
+  "ServerPort": "443",
+  "ServerUser": "",
+  "ServerPass": "",
+  "HysteriaAuth": "PASSWORD-HYSTERIA",
+  "HysteriaSNI": "domain-server",
+  "HysteriaInsecure": false,
+  "tunnelT": "HYSTERIA"
 },
         {
             "Name": "Malaysia",
