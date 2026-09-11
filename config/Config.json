@@ -37,6 +37,23 @@
             "udpAcc": "{\n  \"up_mbps\": 6,\n  \"down_mbps\": 6,\n  \"retry\": 20,\n  \"retry_interval\": 1,\n  \"socks5\": {\n    \"listen\": \"127.0.0.1:1080\"\n  },\n  \"insecure\": true,\n  \"recv_window_conn\": 393216,\n  \"recv_window\": 983040,\n \"idle_timeout\": 60,\n \"hop_interval\": 1800,\n \"resolve_preference\": \"4\"\n}\n",
             "tunnelT": "UDP"
         },
+		{
+    "Name": "HYSTERIA SERVER",
+    "FLAG": "sg",
+    "ServerIP": "alamat-server-hysteria",
+    "ProxyIP": "",
+    "ServerPort": "443",
+    "SSLPort": "",
+    "ProxyPort": "",
+    "ServerUser": "",
+    "ServerPass": "",
+    "sInfo": "",
+    "Slowchave": "",
+    "Nameserver": "",
+    "servermessage": "",
+    "udpAcc": "",
+    "tunnelT": "HYSTERIA"
+},
         {
             "Name": "Malaysia",
             "FLAG": "my",
@@ -344,6 +361,24 @@
             "isSlow": false,
             "isWeb": true,
             "udpUse": false
-        }
+        },
+		{
+    "Name": "HYSTERIA 2",
+    "Payload": "",
+    "SNI": "",
+    "pInfo": "",
+    "Slowdns": "",
+    "WebProxy": "",
+    "WebPort": "",
+    "udpResolver": "",
+    "isSSL": false,
+    "isPayloadSSL": false,
+    "isInject": false,
+    "isDirect": false,
+    "isSlow": false,
+    "isWeb": false,
+    "udpUse": false,
+    "hysteriaUse": true
+}
     ]
 }
