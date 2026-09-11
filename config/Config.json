@@ -358,22 +358,23 @@
             "udpUse": false
         },
 		{
-    "Name": "HYSTERIA 2",
-    "Payload": "",
-    "SNI": "",
-    "pInfo": "",
-    "Slowdns": "",
-    "WebProxy": "",
-    "WebPort": "",
-    "udpResolver": "",
-    "isSSL": false,
-    "isPayloadSSL": false,
-    "isInject": false,
-    "isDirect": false,
-    "isSlow": false,
-    "isWeb": false,
-    "udpUse": false,
-    "hysteriaUse": true
+     "Name": "HYSTERIA 3",
+  "Payload": "",
+  "SNI": "",
+  "pInfo": "",
+  "Slowdns": "",
+  "WebProxy": "",
+  "WebPort": "",
+  "udpResolver": "",
+  "isSSL": false,
+  "isPayloadSSL": false,
+  "isInject": false,
+  "isDirect": false,
+  "isSlow": false,
+  "isWeb": false,
+  "udpUse": false,
+  "hysteriaUse": true,
+  "ProxyIP": "1.2.3.4"
 }
     ]
 }
