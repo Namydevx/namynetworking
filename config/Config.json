@@ -38,7 +38,7 @@
             "tunnelT": "UDP"
         },
 		{
-  "Name": "HYSTERIA3 SERVER",
+  "Name": "HYSTERIA2 SERVER",
   "FLAG": "sg",
   "ServerIP": "1.2.3.4",
   "ServerPort": "443",
@@ -358,13 +358,13 @@
             "udpUse": false
         },
 		{
-     "Name": "HYSTERIA 3",
+     "Name": "HYSTERIA 2",
   "Payload": "",
   "SNI": "",
   "pInfo": "",
   "Slowdns": "",
-  "WebProxy": "",
-  "WebPort": "",
+  "WebProxy": "1.2.3.4",
+  "WebPort": "443",
   "udpResolver": "",
   "isSSL": false,
   "isPayloadSSL": false,
@@ -373,8 +373,7 @@
   "isSlow": false,
   "isWeb": false,
   "udpUse": false,
-  "hysteriaUse": true,
-  "ProxyIP": "1.2.3.4"
+  "hysteriaUse": true
 }
     ]
 }
