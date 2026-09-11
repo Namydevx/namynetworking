@@ -40,10 +40,10 @@
 		{
   "Name": "HYSTERIA2 SERVER",
   "FLAG": "sg",
-  "ServerIP": "alamat-server-hysteria",
+  "ServerIP": "140.82.28.236",
   "ServerPort": "443",
-  "ServerUser": "",
-  "ServerPass": "",
+  "ServerUser": "namydevx",
+  "ServerPass": "namydevx",
   "HysteriaAuth": "PASSWORD-HYSTERIA",
   "HysteriaSNI": "domain-server",
   "HysteriaInsecure": false,
