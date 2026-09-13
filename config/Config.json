@@ -1,7 +1,7 @@
 {
-    "Version": "1",
+    "Version": "1.4",
     "ReleaseNotes": "NamyNetwork",
-    "ReleaseNotes1": "1",
+    "ReleaseNotes1": "",
     "Servers": [
 	 {
             "Name": "NamyNetwork",
