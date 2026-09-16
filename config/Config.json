@@ -48,7 +48,7 @@
             "Slowchave": "",
             "Nameserver": "",
             "servermessage": "",
-            "udpAcc": "{\n  \"up_mbps\": 6,\n  \"down_mbps\": 6,\n  \"retry\": 20,\n  \"retry_interval\": 1,\n  \"socks5\": {\n    \"listen\": \"127.0.0.1:1080\"\n  },\n  \"insecure\": true,\n  \"recv_window_conn\": 393216,\n  \"recv_window\": 983040,\n \"idle_timeout\": 60,\n \"hop_interval\": 1800,\n \"resolve_preference\": \"4\"\n}\n",
+            "udpAcc": "",
             "tunnelT": "UDP"
         },
 		{
