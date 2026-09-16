@@ -83,7 +83,7 @@
             "tunnelT": "UDP"
         },
 		  {
-    "Name": "UDP CUSTOM",
+    "Name": "UDP CUSTOM 1",
     "FLAG": "wlt",
     "ServerIP": "167.71.212.240",
     "ProxyIP": "",
