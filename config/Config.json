@@ -82,7 +82,7 @@
     "Slowchave": "",
     "Nameserver": "",
     "servermessage": "",
-    "udpAcc": "{}",
+    "udpAcc": "{\"retry\":20,\"retry_interval\":1,\"socks5\":{\"listen\":\"127.0.0.1:1080\"},\"insecure\":true}",
     "tunnelT": "UDP"
           },
 		  {
