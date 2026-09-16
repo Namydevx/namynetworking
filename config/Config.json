@@ -67,6 +67,7 @@
     "Slowdns": "",
     "WebProxy": "",
     "WebPort": "",
+	"udpResolver": "8.8.8.8:0",
     "udpbuffer": "8888",
     "udpdown": "1",
     "udpup": "1",
