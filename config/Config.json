@@ -52,7 +52,7 @@
             "tunnelT": "UDP"
         },
 		  {
-    "Name": "UDP CUSTOM",
+    "Name": "UDP CUSTOM 1",
     "FLAG": "wlt",
     "ServerIP": "namynet.me",
     "ProxyIP": "",
@@ -67,7 +67,7 @@
     "Slowdns": "",
     "WebProxy": "",
     "WebPort": "",
-	"udpResolver": "8.8.8.8:0",
+    "udpResolver": "8.8.8.8:0",
     "udpbuffer": "8888",
     "udpdown": "1",
     "udpup": "1",
@@ -83,7 +83,7 @@
     "Nameserver": "",
     "servermessage": "",
     "tunnelT": "UDP"
-},
+}
 		  {
             "Name": "V2RAY",
             "FLAG": "sg",
