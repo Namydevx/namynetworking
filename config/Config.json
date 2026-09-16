@@ -52,7 +52,7 @@
             "tunnelT": "UDP"
         },
 		  {
-            "Name": "UDP SERVER NAMYNET",
+            "Name": "UDP SERVER NAMYNET2",
             "FLAG": "wlt",
             "ServerIP": "namynet.me",
             "ProxyIP": "",
