@@ -52,7 +52,7 @@
             "tunnelT": "UDP"
         },
 		  {
-    "Name": "UDP CUSTOM",
+    "Name": "UDP CUSTOM NAMY",
     "FLAG": "wlt",
     "ServerIP": "namynet.me",
     "ProxyIP": "",
