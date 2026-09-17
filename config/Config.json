@@ -120,7 +120,7 @@
   "tunnelT": "V2RAY"
 },
     {
-      "Name": "V2RAY 4",
+      "Name": "V2RAY 5",
   "FLAG": "sg",
   "address": "sggs3.vpnjantit.com",
   "port": 10001,
@@ -129,6 +129,7 @@
   "path": "/vpnjantit",
   "host": "",
   "tls": true,
+      "v2rayJson": "",
       "tunnelT": "V2RAY"
 },
     {
