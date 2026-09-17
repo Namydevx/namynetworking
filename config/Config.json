@@ -86,7 +86,7 @@
       "tunnelT": "UDP"
     },
     {
-      "Name": "V2RAY jnt",
+      "Name": "V2RAY",
       "FLAG": "sg",
       "ServerIP": "",
       "ProxyIP": "",
