@@ -120,6 +120,18 @@
   "tunnelT": "V2RAY"
 },
     {
+      "Name": "V2RAY 4",
+  "FLAG": "sg",
+  "address": "sggs3.vpnjantit.com",
+  "port": 10001,
+  "uuid": "956fe58c-b283-11f1-b53b-00163ea68baf",
+  "network": "ws",
+  "path": "/vpnjantit",
+  "host": "",
+  "tls": true,
+      "tunnelT": "V2RAY"
+},
+    {
       "Name": "HYSTERIA2",
       "FLAG": "sg",
       "ServerIP": "140.82.28.236",
