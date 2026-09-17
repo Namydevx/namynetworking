@@ -86,7 +86,7 @@
       "tunnelT": "UDP"
     },
 {
-  "Name": "V2RAY 3",
+  "Name": "V2RAY jnt",
   "FLAG": "sg",
   "ServerIP": "",
   "ProxyIP": "",
@@ -120,7 +120,7 @@
   "tunnelT": "V2RAY"
 },
     {
-      "Name": "V2RAY 5",
+      "Name": "V2RAY test",
   "FLAG": "sg",
   "address": "sggs3.vpnjantit.com",
   "port": 10001,
