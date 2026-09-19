@@ -86,6 +86,90 @@
       "tunnelT": "UDP"
     },
     {
+      "Name": "V2RAY test1",
+      "FLAG": "sg",
+      "ServerIP": "",
+      "ProxyIP": "",
+      "ServerPort": "",
+      "SSLPort": "",
+      "ProxyPort": "",
+      "ServerUser": "",
+      "ServerPass": "",
+      "sInfo": "",
+      "Slowchave": "",
+      "Nameserver": "",
+      "servermessage": "",
+      "v2rayJson": "{
+  "log": {
+    "loglevel": "debug"
+  },
+  "inbounds": [
+    {
+      "tag": "tun-in",
+      "protocol": "tun",
+      "settings": {
+        "name": "tun0",
+        "mtu": 1500,
+        "userLevel": 0
+      }
+    }
+  ],
+  "outbounds": [
+    {
+      "tag": "proxy",
+      "protocol": "vmess",
+      "settings": {
+        "vnext": [
+          {
+            "address": "116.251.217.107",
+            "port": 80,
+            "users": [
+              {
+                "id": "956fe58c-b283-11f1-b53b-00163ea68baf",
+                "alterId": 0,
+                "security": "auto",
+                "level": 8
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "ws",
+        "security": "",
+        "wsSettings": {
+          "path": "/vpnjantit",
+          "headers": {
+            "Host": "sggs3.vpnjantit.com"
+          }
+        }
+      }
+    },
+    {
+      "tag": "direct",
+      "protocol": "freedom"
+    },
+    {
+      "tag": "block",
+      "protocol": "blackhole"
+    }
+  ],
+  "routing": {
+    "domainStrategy": "",
+    "rules": [
+      {
+        "type": "field",
+        "inboundTag": [
+          "tun-in"
+        ],
+        "outboundTag": "proxy"
+      }
+    ]
+  }
+}",
+      "tunnelT": "V2RAY"
+    },
+    {
       "Name": "V2RAY",
       "FLAG": "sg",
       "ServerIP": "",
