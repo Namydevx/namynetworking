@@ -4,6 +4,23 @@
   "ReleaseNotes1": "",
   "Servers": [
     {
+      "Name": "NamyNetwork2",
+      "FLAG": "wlt",
+      "ServerIP": "ssh-sg1.sshkit.org",
+      "ProxyIP": "",
+      "ServerPort": "80",
+      "SSLPort": "443",
+      "ProxyPort": "",
+      "ServerUser": "sshkit-7780087349",
+      "ServerPass": "123",
+      "sInfo": "NamyNetwork",
+      "Slowchave": "",
+      "Nameserver": "",
+      "servermessage": "",
+      "udpAcc": "",
+      "tunnelT": "SSH"
+    },
+    {
       "Name": "NamyNetwork",
       "FLAG": "wlt",
       "ServerIP": "namynet.me",
